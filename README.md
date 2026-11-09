@@ -1,6 +1,6 @@
 # PoolGame
 ## Overview
-PoolGame is a mostly-complete simulated game of pool I developed and coded for my A-Level Computer Science Programming Project. My writeup for it is attached to this repository.
+PoolGame is a (mostly-complete) simulated game of pool I developed and coded for my A-Level Computer Science Programming Project. My writeup for it is attached to this repository.
 
 ## Tools, Frameworks, and Libraries used
 - [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/) - A programming language built for the .NET Framework, used for coding PoolGame.
